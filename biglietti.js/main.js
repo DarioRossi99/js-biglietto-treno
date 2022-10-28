@@ -4,6 +4,7 @@ let etaSoggetto = prompt("età");
 
 let priceJourney = .21 * kilometriViaggio
 
+let upDateUtente;
 
 
 if (etaSoggetto < 18){
